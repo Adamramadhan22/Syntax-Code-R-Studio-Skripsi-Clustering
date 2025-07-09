@@ -1,0 +1,1 @@
+Syntax code tersebut digunakan untuk menjalankan kode R dengan format Rmd. Jenis file tersebut sangat mendukung dan memungkinkan untuk mengeksekusi kode R sel per selsedemikian sehingga menghasilkan output yang diinginkan baik berupa data, tabel maupun gambar secara langsung.
